@@ -1,0 +1,178 @@
+.login-hover-box {
+	background: #5153CB;
+	margin-top: 20px;
+	padding: 10px;
+	height: 60x;
+	border-radius: 11px;
+	display:inline-block;
+	flex-direction: row-reverse;
+}
+
+.login-userpass{
+	display : flex;
+	flex-flow: row wrap;
+}
+
+.login-label{
+	padding-left: 2px;
+	font-size: 13px;
+	color: #ACADE9;
+}
+
+.login-div{
+	text-align: left;
+	width: 130px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.login-button{
+	background-color: #3F4089;
+	padding: 1px 5px 1px 5px;
+	border-radius: 7px;
+	margin-top: 5px;
+	color: #6E6FD4;
+	border: none;
+	float: both;
+}
+
+.signup-button{
+	background-color: #3F4089;
+	padding: 5px;
+	border-radius: 7px;
+	margin-left: 6px;
+	margin-top: 5px;
+	color: #6E6FD4;
+	border: none;
+	float: both;
+}
+
+
+.login-input{
+	background-color: #33346C;
+	border-radius: 3px;
+	color: #9899D3;
+	border: none;
+	height: 17px;
+	font-size: 10px;
+	width: 120px;
+	float: left;
+}
+
+.login-href{
+	color: #9899D3;
+	text-decoration:none;
+	padding-top: 2px;
+	font-size: 13px;
+	padding-left: 7px;
+}
+
+.header-title{
+	font-family: cursive;
+	font-weight:bold;
+	display:inline-block;
+	float:left;
+	width: 65%;
+	padding-top: 25px;
+	color: #63F18E;
+	margin-left: 20px;
+	text-align: left;
+    vertical-align: middle;
+}
+
+.register-label{
+	padding-left: 2px;
+	font-size: 13px;
+	color: #513161;
+}
+
+.register-namesurname{
+	display : flex;
+	flex-direction: wrap;
+}
+
+.register-div{
+	text-align: left;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.create-account-button{
+	background-color: #9CC0F0;
+	padding: 5px;
+	border-radius: 7px;
+	margin-left: 6px;
+	margin-top: 5px;
+	color: #513161;
+	justify-content: center;
+	border: none;
+}
+
+.register-input{
+	background-color: #CAD8FF;
+	border-radius: 3px;
+	color: #513161;
+	border: none;
+	height: 17px;
+	font-size: 10px;
+	width: 260px;
+	margin-bottom: 10px;
+	margin-top: 3px;
+}
+
+.masmenos{
+	margin: 0 20px 0 20px;
+}
+
+.namesurname-input{
+	background-color: #CAD8FF;
+	border-radius: 3px;
+	color: #513161;
+	border: none;
+	height: 17px;
+	font-size: 10px;
+	width: 125px;
+	float: left;
+	margin-bottom: 10px;
+	margin-top: 3px;
+}
+
+.register-recuadro{
+	border-radius:11px;
+	width: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+header{
+	background-color: #2D2F8B;
+	display: flex;
+	flex-flow: row-reverse wrap;
+	padding-bottom: 20px;
+	padding-right: 20px;
+}
+
+.carrousel-image{
+	justify-content:center;
+}
+
+.carrousel-class{
+	height: 590px;
+}
+
+body{
+	background-color: #C6D3F6
+}
+
+.nav-class{
+	text-align: center;
+}
+
+.shop-box{
+	background-color: #C1F8DD;
+	height: 500px;
+	border: 1px solid black;
+	border-radius: 12px;
+	box-shadow: 3px 5px 8px #286778;
+}

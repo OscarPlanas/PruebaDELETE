@@ -1,0 +1,156 @@
+.login-hover-box {
+	background: #5153CB;
+	margin-top: 20px;
+	padding: 10px;
+	height: 60px;
+	border-radius: 11px;
+	display:inline-block;
+	flex-direction: row-reverse;
+}
+
+.login-userpass{
+	display : flex;
+	flex-flow: row wrap;
+}
+
+.login-userpass{
+	display : flex;
+	flex-flow: row wrap;
+}
+
+.register-namesurname{
+	display : flex;
+	flex-direction: wrap;
+}
+
+.login-label{
+	padding-left: 2px;
+	font-size: 13px;
+	color: #ACADE9;
+}
+
+.register-label{
+	padding-left: 2px;
+	font-size: 13px;
+	color: #011344;
+}
+
+.login-div{
+	text-align: left;
+	width: 130px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.register-div{
+	text-align: left;
+	width: 130px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.login-button{
+	background-color: #3F4089;
+	padding: 5px;
+	border-radius: 7px;
+	margin-top: 5px;
+	color: #6E6FD4;
+	border: none;
+	float: both;
+}
+
+.create-account-button{
+	background-color: #9CC0F0;
+	padding: 5px;
+	border-radius: 7px;
+	margin-left: 6px;
+	margin-top: 5px;
+	color: #011344;
+	justify-content: center;
+	border: none;
+}
+
+
+.login-input{
+	background-color: #33346C;
+	border-radius: 3px;
+	color: #9899D3;
+	border: none;
+	height: 17px;
+	font-size: 10px;
+	width: 120px;
+	float: left;
+}
+
+.register-input{
+	background-color: #CAD8FF;
+	border-radius: 3px;
+	color: #9899D3;
+	border: none;
+	height: 17px;
+	font-size: 10px;
+	width: 260px;
+	float: left;
+	margin-bottom: 10px;
+	margin-top: 3px;
+}
+
+.namesurname-input{
+	background-color: #CAD8FF;
+	border-radius: 3px;
+	color: #9899D3;
+	border: none;
+	height: 17px;
+	font-size: 10px;
+	width: 120px;
+	float: left;
+	margin-bottom: 10px;
+	margin-top: 3px;
+}
+
+.login-href{
+	color: #9899D3;
+	text-decoration:none;
+	padding-top: 2px;
+	font-size: 13px;
+	padding-left: 7px;
+}
+
+.header-title{
+	font-family: cursive;
+	display:inline-block;
+	float:left;
+	width: 69%;
+	padding-top: 25px;
+	color: #63F18E;
+	margin-left: 20px;
+	text-align: left;
+    vertical-align: middle;
+}
+
+header{
+	background-color: #2D2F8B;
+	display: flex;
+	flex-flow: row-reverse wrap;
+	margin: 0;
+	padding-bottom: 20px;
+	padding-right: 20px;
+}
+
+.background-class{
+	background-color: #C6D3F6;
+	display: flex;
+	height:85vh;
+	justify-content: center;
+	align-items: center;
+}
+
+.register-recuadro{
+	background: #A6B1CE;
+	border-radius:11px;
+	width: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 30px 163px 30px 150px;
+}
